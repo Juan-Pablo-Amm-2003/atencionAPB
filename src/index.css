@@ -1,0 +1,11 @@
+/*
+ * Archivo principal para importar las directivas de Tailwind CSS.
+ * Las clases se generarán a partir de aquí.
+*/
+
+@import "tailwindcss";
+
+/* Opcional: Establecer una fuente global clara y adaptable */
+body {
+  font-family: 'Inter', sans-serif;
+}
